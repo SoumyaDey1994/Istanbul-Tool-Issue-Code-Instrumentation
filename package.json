@@ -1,0 +1,21 @@
+{
+  "name": "Super_Test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "coverage": "nyc --reporter=text npm test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nyc": "^13.3.0"
+  },
+  "nyc":{
+    "check-coverage": true,
+    "per-file": true,
+    "all": true
+  }
+}

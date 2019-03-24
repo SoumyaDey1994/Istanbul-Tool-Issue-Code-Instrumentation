@@ -1,0 +1,11 @@
+{
+    statementMap:{
+        "0":{
+            start:{
+                line:4,
+                column:8
+            },
+            end:{
+                line:4,column:24
+            }
+        },"1":{start:{line:7,column:8},end:{line:7,column:60}},"2":{start:{line:8,column:8},end:{line:8,column:26}},"3":{start:{line:9,column:8},end:{line:9,column:36}},"4":{start:{line:13,column:8},end:{line:13,column:60}},"5":{start:{line:14,column:8},end:{line:14,column:26}},"6":{start:{line:15,column:8},end:{line:15,column:35}},"7":{start:{line:22,column:8},end:{line:22,column:65}},"8":{start:{line:23,column:8},end:{line:23,column:26}},"9":{start:{line:24,column:24},end:{line:24,column:60}},"10":{start:{line:25,column:28}}}
